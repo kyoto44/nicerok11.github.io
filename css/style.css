@@ -90,7 +90,9 @@ a {
 .wrapper {
    margin-top: 20%;
    text-align: center;
-   position: relative !important;
+   position: absolute !important;
+   top: -23px;
+   left: 800px;
    font-size: 90px;
    font-family: Pacifico;
    color: #0D2377;
